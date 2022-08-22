@@ -7,9 +7,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "jest --watch",
-    "start": "webpack --mode=development",
-    "build": "webpack --mode=production",
-    "dev": "webpack server --open"
+    "start": "webpack server --open",
+    "build": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
