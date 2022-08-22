@@ -3,8 +3,8 @@
 #### https://usage.ai/
 #### Author: Yaokai Dong
 #### Email：ykdong1991@gmail.com
-#### LinkedIn: linkedin.com/in/yaokai-dong/
-#### GitHub: github.com/ykdong
+#### LinkedIn: https://www.linkedin.com/in/yaokai-dong/
+#### GitHub: https://github.com/ykdong
 
 ## Open Stage
 <a href="https://ibb.co/RydpLbJ"><img src="https://i.ibb.co/xHdSVLr/before.png" alt="before" border="0"></a>
