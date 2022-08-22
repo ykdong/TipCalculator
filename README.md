@@ -44,3 +44,8 @@ A restaurants bill calculator. Users enabled to:
 - Run npm install
 - Run npm run dev
 - Enjoy the Tip Calculator &#128512;
+
+### Or use our live Demo
+- Live Site URL: [Tip Calculator](https://tip-calculator-red-two.vercel.app/) &#128151;
+
+
