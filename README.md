@@ -7,7 +7,7 @@
 #### GitHub: github.com/ykdong
 
 ## Open Stage
-<a href="https://ibb.co/7bwvpv6"><img src="https://i.ibb.co/Pt7xWxf/result.png" alt="result" border="0"></a>
+<a href="https://ibb.co/RydpLbJ"><img src="https://i.ibb.co/xHdSVLr/before.png" alt="before" border="0"></a>
 
 ## Result Stage
 <a href="https://ibb.co/7bwvpv6"><img src="https://i.ibb.co/Pt7xWxf/result.png" alt="result" border="0"></a>
