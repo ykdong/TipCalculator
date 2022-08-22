@@ -7,11 +7,11 @@
 #### GitHub: github.com/ykdong
 
 ## Open Stage
-![before.png](https://i.postimg.cc/Y0Pd9zTL/before.png)
+<a href="https://ibb.co/7bwvpv6"><img src="https://i.ibb.co/Pt7xWxf/result.png" alt="result" border="0"></a>
 
 ## Result Stage
-![result.png](https://i.postimg.cc/Kc1wX163/result.png)
-![result2.png](https://i.postimg.cc/4N6TMKcb/result2.png)
+<a href="https://ibb.co/7bwvpv6"><img src="https://i.ibb.co/Pt7xWxf/result.png" alt="result" border="0"></a>
+<a href="https://ibb.co/nDwTX3n"><img src="https://i.ibb.co/hKgkGXZ/result2.png" alt="result2" border="0"></a>
 
 ## Application Description
 
