@@ -38,3 +38,9 @@ A restaurants bill calculator. Users enabled to:
 - WebPack
 - React Testing Library
 - Jest
+
+### To start
+- Fork and Clone this Repository 
+- Run npm install
+- Run npm run dev
+- Enjoy the Tip Calculator &#128512;
